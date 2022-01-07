@@ -9,4 +9,5 @@ E. Rich &amp; K. Knight, Artificial Intelligence, 2nd edition, McGraw-Hill, 1991
  iterative deepening search or more specifically iterative deepening depth-first search is a state space/graph search strategy in which 
  a depth-limited version of depth-first search is run repeatedly with increasing depth limits until the goal is found.
  we use this method to reach the goal in this problem.
- 
+ ![image](https://user-images.githubusercontent.com/64889731/148529527-396445f0-3f7d-4730-b7e7-e5156b0cb281.png)
+
